@@ -64,3 +64,36 @@ numar = 12
 print(numar & 1 == 0) # nr par
 '''
 
+'''
+from librarypy import arde
+
+def nmain():
+    print("Calculez radical si etc: " + str(arde()))
+
+def retard():
+    print("N-ai ma nimic :(")
+
+nmain()
+
+
+retard()
+'''
+
+'''
+if __name__=='__main__':
+    print('salut')
+'''
+
+'''
+global x
+
+x = 1
+
+print(x)
+'''
+
+'''
+# big data
+a = 2 ** 1000000
+print(a)
+'''
